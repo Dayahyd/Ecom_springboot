@@ -7,6 +7,8 @@ import org.springframework.stereotype.Repository;
 
 import java.util.List;
 
+
+
 @Repository
 public interface ProductRepo extends JpaRepository<Product, Integer> {
     @Query("SELECT p from Product p WHERE "+
