@@ -1,2 +1,5 @@
 hi 
 code has deleted
+
+unfortunately code had gone while merging the code
+
