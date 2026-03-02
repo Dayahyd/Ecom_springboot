@@ -6,5 +6,4 @@ actuall code had deleted 2 weeks ago
 
 code deleted due to git rebase force command
 
-
 ## code deletion ##
