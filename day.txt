@@ -1,6 +1,6 @@
 this ts
 
-code must be retrived
+code must be retrived from the original source
 code had vanished due to incorrect push
 
 actuall code had deleted 2 weeks ago
